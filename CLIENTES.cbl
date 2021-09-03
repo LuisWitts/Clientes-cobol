@@ -1,6 +1,6 @@
       ******************************************************************
       * Author:LUIS WITTS
-      * OBJEITVO: SISTEMA DE GESTÁO DE CLIENTES
+      * OBJEITVO: SISTEMA DE GESTAO DE CLIENTES
       ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. CLIENTES.
